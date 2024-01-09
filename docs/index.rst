@@ -22,5 +22,4 @@ Contents
    :caption: Разведка
    :maxdepth: 2
    recon/recon
-   :caption: Техники
    recon/active-scan
