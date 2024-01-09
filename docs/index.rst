@@ -11,5 +11,5 @@ Contents
 .. toctree::
    :caption: Разведка
    :maxdepth: 2
-   recon
-   active-scan
+   recon/recon
+   recon/active-scan
