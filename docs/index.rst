@@ -1,9 +1,9 @@
 .. include:: ../README.rst
 
 .. toctree::
-   :caption: Разведка
+   :caption: Разведка:
 
    test
-   recon/Aboba
+   Aboba
    recon/recon
    recon/active-scan
