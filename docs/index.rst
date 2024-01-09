@@ -3,7 +3,7 @@
 .. toctree::
    :caption: Разведка:
 
-   test
-   Aboba
-   recon/recon
-   recon/active-scan
+   test.rst
+   Aboba.rst
+   recon/recon.rst
+   recon/active-scan.rst
