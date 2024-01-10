@@ -1,7 +1,7 @@
 .. include:: ../README.rst
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 7
    :caption: Разведка
 
    source/recon/recon.rst
