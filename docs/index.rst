@@ -1,9 +1,8 @@
 .. include:: ../README.rst
 
 .. toctree::
-   :caption: Разведка
 
-   source/test.rst
-   source/Aboba.rst
    source/recon/recon.rst
+   :caption: Техники
    source/recon/active-scan.rst
+   source/recon/gather.rst
