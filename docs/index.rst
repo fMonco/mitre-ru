@@ -44,20 +44,20 @@
    :maxdepth: 7
    :caption: 🗝️ Первоначальный доступ
 
-   source/inital-access/inital-access.rst
+   source/initial-access/initial-access.rst
 
 .. toctree::
    :maxdepth: 7
    :caption: 🗝️ Первоначальный доступ
 
-   source/inital-access/content-inject.rst
-   source/inital-access/drive-by.rst
-   source/inital-access/exploit-public.rst
-   source/inital-access/exploit-public.rst
-   source/inital-access/external-remote.rst
-   source/inital-access/hardware-addition.rst
-   source/inital-access/phishing.rst
-   source/inital-access/replication-removable.rst
-   source/inital-access/supply-chain.rst
-   source/inital-access/trusted-rel.rst
-   source/inital-access/valid-acc.rst
+   source/initial-access/content-inject.rst
+   source/initial-access/drive-by.rst
+   source/initial-access/exploit-public.rst
+   source/initial-access/exploit-public.rst
+   source/initial-access/external-remote.rst
+   source/initial-access/hardware-addition.rst
+   source/initial-access/phishing.rst
+   source/initial-access/replication-removable.rst
+   source/initial-access/supply-chain.rst
+   source/initial-access/trusted-rel.rst
+   source/initial-access/valid-acc.rst
