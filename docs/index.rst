@@ -48,7 +48,7 @@
 
 .. toctree::
    :maxdepth: 7
-   :caption: 🗝️ Первоначальный доступ
+   :caption: 🗝️ Техники
 
    source/initial-access/content-inject.rst
    source/initial-access/drive-by.rst
@@ -61,3 +61,24 @@
    source/initial-access/supply-chain.rst
    source/initial-access/trusted-rel.rst
    source/initial-access/valid-acc.rst
+
+.. toctree::
+   :maxdepth: 7
+   :caption: ⏩ Выполнение
+
+   source/execution/execution.rst
+
+.. toctree::
+   :maxdepth: 7
+   :caption: ⏩ Техники
+
+   source/execution/cloud-admin.rst
+   source/execution/command-script.rst
+   source/execution/container-admin.rst
+   source/execution/deploy-container.rst
+   source/execution/exploit-client.rst
+   source/execution/inter-process.rst
+   source/execution/naitive-windows.rst
+   source/execution/scheduled.rst
+   source/execution/system-services.rst
+   source/execution/user-exec.rst
