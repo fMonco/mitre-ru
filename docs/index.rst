@@ -82,3 +82,58 @@
    source/execution/scheduled.rst
    source/execution/system-services.rst
    source/execution/user-exec.rst
+
+
+
+.. toctree::
+   :maxdepth: 7
+   :caption: 💪🏼 Закрепление
+
+   source/persistence/persistence.rst
+
+.. toctree::
+   :maxdepth: 7
+   :caption: 💪🏼 Техники
+
+   source/persistence/acc-manipulation.rst
+   source/persistence/browser-power.rst
+   source/persistence/boot-login.rst
+   source/persistence/create-acc.rst
+   source/persistence/create-or-mod.rst
+   source/persistence/preos-boot.rst
+   source/persistence/server-software.rst
+   source/persistence/valid-accs.rst
+
+
+.. toctree::
+   :maxdepth: 7
+   :caption: ⏫ Повышение привилегий
+
+   source/privilege-escalation/privilege-escalation.rst
+
+.. toctree::
+   :maxdepth: 7
+   :caption: ⏫ Техники
+
+   source/privilege-escalation/abuse-elev.rst
+   source/privilege-escalation/access-token.rst
+   source/privilege-escalation/account-manipulation.rst
+   source/privilege-escalation/boot-or-login.rst
+   source/privilege-escalation/escape-explotation.rst
+
+
+.. toctree::
+   :maxdepth: 7
+   :caption: 🏃🏻 Уклонение от защиты
+
+   source/defence-evasion/defence-evasion.rst
+
+.. toctree::
+   :maxdepth: 7
+   :caption: 🏃🏻 Техники
+
+   source/defence-evasion/abuse-evelation.rst
+   source/defence-evasion/access-token.rst
+   source/defence-evasion/bits-xsl.rst
+   source/defence-evasion/virtualization.rst
+   source/defence-evasion/traffic-signaling.rst
