@@ -53,7 +53,6 @@
    source/initial-access/content-inject.rst
    source/initial-access/drive-by.rst
    source/initial-access/exploit-public.rst
-   source/initial-access/exploit-public.rst
    source/initial-access/external-remote.rst
    source/initial-access/hardware-addition.rst
    source/initial-access/phishing.rst
