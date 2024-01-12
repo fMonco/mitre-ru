@@ -136,3 +136,23 @@
    source/defence-evasion/bits-xsl.rst
    source/defence-evasion/virtualization.rst
    source/defence-evasion/traffic-signaling.rst
+
+
+
+.. toctree::
+   :maxdepth: 7
+   :caption: 📇 Доступ к учетным данным
+
+   source/credential-access/credential-access.rst
+
+.. toctree::
+   :maxdepth: 7
+   :caption: 📇 Техники
+
+   source/credential-access/credential-access.rst
+   source/credential-access/adversary.rst
+   source/credential-access/brute-froce.rst
+   source/credential-access/explotation-steal.rst
+   source/credential-access/forge-web.rst
+   source/credential-access/input-capture.rst
+   source/credential-access/steal-or-forge.rst
